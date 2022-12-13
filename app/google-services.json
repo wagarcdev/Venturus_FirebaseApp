@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "830544504894",
+    "project_id": "mentoriasoftex-48077",
+    "storage_bucket": "mentoriasoftex-48077.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830544504894:android:5a806d52ec21b1fc4bc96f",
+        "android_client_info": {
+          "package_name": "br.org.venturus.mentoriasoftex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830544504894-rt2oejqq95jc0a28htp440lmbd9tlv1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.org.venturus.mentoriasoftex",
+            "certificate_hash": "c70413c93074790d9cf33fbf61eee6df1f6d8b71"
+          }
+        },
+        {
+          "client_id": "830544504894-k2abs1ok3e8afua3vodgcntveus6pdv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQlzKRPi5ssOKwpsQfygBq1B8O1H95zUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830544504894-k2abs1ok3e8afua3vodgcntveus6pdv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
